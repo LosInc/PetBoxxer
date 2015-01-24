@@ -4,6 +4,5 @@
 ## Title-zhTW: PetBoxxer
 ## Notes-zhTW: PetBoxxer
 ## Author: Los @ Auchindoun EU
-## SavedVariables: FollowerLocationInfoDB, FLI_tmpDB
 
 PetBoxxer.xml
