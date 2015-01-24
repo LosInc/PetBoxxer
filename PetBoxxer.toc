@@ -1,0 +1,9 @@
+## Interface: 60000
+## Title: PetBoxxer
+## Version: 0.1-beta1
+## Title-zhTW: PetBoxxer
+## Notes-zhTW: PetBoxxer
+## Author: Los @ Auchindoun EU
+## SavedVariables: FollowerLocationInfoDB, FLI_tmpDB
+
+PetBoxxer.xml
